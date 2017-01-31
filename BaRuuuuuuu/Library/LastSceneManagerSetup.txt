@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SpriteCar/GameObject/FristScane.unity
+  isLoaded: 1
+  isActive: 1
