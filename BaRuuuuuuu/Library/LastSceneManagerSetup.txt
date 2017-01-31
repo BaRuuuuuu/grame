@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SpriteCar/GameObject/FristScane.unity
+- path: Assets/Resources/Scenes/gameplay.unity
   isLoaded: 1
   isActive: 1
